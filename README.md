@@ -1,19 +1,31 @@
+## 🤖한주연
 
-> **단국대 소프트웨어학과**
-> * 한주연
-> * email : han_juyean@dankook.ac.kr
-> * Github : [github.com/hanjuyean](https://github.com/hanjuyean/)
+**🏫 단국대학교 소프트웨어학과**  
+**📧 email** : han_juyean@dankook.ac.kr  
+**💻 Github** : [github.com/hanjuyean](https://github.com/hanjuyean/)  
+
+<br>
+<br>
 
 
-# 기술 스택
+## 💬 Languages
+
+![Java](https://img.shields.io/badge/Java-B0E0E6?style=for-the-badge&logo=java&logoColor=black)
+![Python](https://img.shields.io/badge/Python-C8A2C8?style=for-the-badge&logo=python&logoColor=black) <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-E6E6FA?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-AAF0D1?style=for-the-badge&logo=css3&logoColor=black)
+
+## Frameworks / Libraries
+
+**Tools / Platforms**  
+
+## 프로젝트 경험
 내용
 
-# 프로젝트 경험
-내용
+## 자기소개 
 
-# 자기소개 
-
-# 학습목표 
+## 학습목표 
 
 
 
