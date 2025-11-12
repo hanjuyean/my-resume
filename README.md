@@ -2,7 +2,7 @@
 > **단국대 소프트웨어학과**
 > * 한주연
 > * email : han_juyean@dankook.ac.kr
-> * Github : github.com/hanjuyean[https://github.com/hanjuyean/]
+> * Github : [github.com/hanjuyean](https://github.com/hanjuyean/)
 
 
 # 기술 스택
