@@ -21,17 +21,24 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-AAF0D1?style=for-the-badge&logoColor=black)
 
 ## ⚙️ Tools / Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-B0E0E6?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-B0E0E6?style=for-the-badge&logoColor=black)
 
 <br>
 
-## 프로젝트 경험
-데이터사이언스 
-운영체제 
+## 👩‍💻프로젝트 경험
+### 데이터사이언스 
+>- 실제 연예인의 광고 효과를 분석하기 위해 판매량, 검색량 등 데이터를 크롤링 등의 방법으로 수집하고, 광고 노출 전후의 소비자 반응 등의 다양한 요소들을 전처리 후 시각화함  
+>- `Python`, `Pandas`, `Matplotlib`, `Seaborn` 등의 라이브러리를 활용해 Jupyter Notebook 환경에서 데이터 전처리 및 분석 과정을 구현  
+>- 데이터 기반으로 연예인과 광고 효과의 관계를 분석하는 프로젝트 수행
 
-<br?
+### 운영체제 
+>- Ubuntu 환경에서 Skiplist 자료구조를 직접 구현, 동기화 및 효율성 향상 방안 실험  
+>- pthread 기반으로 Fine-grained Lock 기법을 적용하여 멀티스레드 환경에서의 Race Condition 및 Deadlock 문제 해결
+>- 동시성 제어 및 자료구조 최적화를 통한 성능 향상 수
 
-## 자기소개 
+<br>
+
+## 😁자기소개 
 단국대학교 소프트웨어학과 재학생입니다. **웹 개발**과 **데이터 분석 분야**에 흥미가 있으며, 관련 분야를 꾸준히 학습하고 있습니다. 프로그래밍 언어와 라이브러리를 활용하여 실제 문제를 해결하고, 실무에서 적용 가능한 역량을 키우는 것을 목표로 하고 있습니다.  
 특히 흥미를 느끼는 부분의 지식을 **프로젝트와 실습**을 통해 확장하고 싶습니다.   
 앞으로는 웹 개발과 데이터 분석 분야에서 보다 전문적인 역량을 갖추고, 직접 아이디어를 구현하며 문제를 해결할 수 있는 개발자로 성장하고 싶습니다.  
